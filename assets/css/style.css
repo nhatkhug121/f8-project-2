@@ -56,9 +56,6 @@ a {
   font-weight: 700;
   font-size: 3.8rem;
 }
-
-.heading.lv3 {
-}
 .header {
   background: #fffcf4;
 }
@@ -108,7 +105,6 @@ header .body {
 
 .nav a:hover,
 .nav li.active a {
-  /* font-weight: 600; */
   text-shadow: 1px 0 0 currentColor;
   color: #171100;
 }
